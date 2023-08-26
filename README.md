@@ -1,6 +1,7 @@
 ## Olá Eu sou Leonardo Rocha
 
 Desenvolvedor Front e Backend "FullStack" residente na Serra - Espírito Santo,Brasil, Cursando a graduação de análise e desenvolvimento de sistemas pela FAESA.
+Meus hobbies são Games , Criar servidores para jogar , aprender novas tecnologias com meu rapberryPI , e outras coisas nerdásticas.
 
   <img align="end" alt="Coders" height="150" width="280" 
   src="https://bestanimations.com/media/peripherals/572585373computer-monitor-animated-gif-5.gif">
