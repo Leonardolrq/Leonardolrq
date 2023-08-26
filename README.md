@@ -5,6 +5,7 @@ Desenvolvedor Front e Backend "FullStack" residente na Serra - Espírito Santo,B
 <div style="display: inline_block"><br>
   
   ![Leonardolrq GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardolrq&show_icons=true&theme=transparent)
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Leonardolrq&bg_icons=true&theme=transparent)
 </div>
 
 <div style="display: inline_block"><br>
