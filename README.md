@@ -1,11 +1,12 @@
-# Olá Eu sou Leonardo Rocha
+## Olá Eu sou Leonardo Rocha
 
 Desenvolvedor Front e Backend "FullStack" residente na Serra - Espírito Santo,Brasil, Cursando a graduação de análise e desenvolvimento de sistemas pela FAESA.
 
+ ## Skills
 <div style="display: inline_block"><br>
   
-  ![Leonardolrq GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardolrq&show_icons=true&theme=transparent)
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Leonardolrq&bg_icons=true&theme=transparent)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardolrq&show_icons=true&theme=omni)
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Leonardolrq&bg_icons=true&theme=omni)
 </div>
 
 <div style="display: inline_block"><br>
@@ -16,7 +17,7 @@ Desenvolvedor Front e Backend "FullStack" residente na Serra - Espírito Santo,B
   <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
   
-  ##
+## Contato
  
 <div> 
   <a href = "mailto:leonardorochalrq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
