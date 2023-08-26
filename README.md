@@ -2,6 +2,9 @@
 
 Desenvolvedor Front e Backend "FullStack" residente na Serra - Espírito Santo,Brasil, Cursando a graduação de análise e desenvolvimento de sistemas pela FAESA.
 
+  <img align="end" alt="Coders" height="150" width="280" 
+  src="https://bestanimations.com/media/peripherals/572585373computer-monitor-animated-gif-5.gif">
+
  ## Skills
 <div style="display: inline_block"><br>
   
